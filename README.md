@@ -4,8 +4,11 @@ About me:
 - I learned Java at [Job4j](https://job4j.ru/)
 - My Jave expirience is 2 years :white_check_mark:
 
--
+- 
 <b> Core technologies:</b>
+![Spring](https://shields.io/badge/Spring=%3E%3D%205.0-green)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ArtemPolshchakl&hide=stars,prs,issues,contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPolshchak&layout=compact)](https://github.com/ArtemPolshchak/github-readme-stats)
 
 
 <!--
