@@ -6,7 +6,7 @@ About me:
 
 <b> Core technologies:</b>
 
-![Java](https://shields.io/badge/Spring-%3E%3D%205.0-green) ![Spring](https://shields.io/badge/Spring-%3E%3D%205.0-green) ![Hibernate](https://shields.io/badge/Spring-%3E%3D%205.0-green) ![Maven](https://shields.io/badge/Spring-%3E%3D%205.0-green) ![PostgreSQL](https://shields.io/badge/Spring-%3E%3D%205.0-green)
+![Java](https://shields.io/badge/Java-%3E%3D%205.0-orange) ![Spring](https://shields.io/badge/Spring-%3E%3D%205.0-green) ![Hibernate](https://shields.io/badge/Hibernate-%3E%3D%205.0-yellow) ![Maven](https://shields.io/badge/Maven-%3E%3D%205.0-red) ![PostgreSQL](https://shields.io/badge/PostgreSQL-%3E%3D%205.0-blue)
 -
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemPolshchak)](https://github.com/ArtemPolshchak/github-readme-stats)
