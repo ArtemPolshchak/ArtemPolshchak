@@ -5,12 +5,10 @@ About me:
 - My Jave expirience is 2 years :white_check_mark:
 
 <b> Core technologies:</b>
+
 ![Spring](https://shields.io/badge/Spring=%3E%3D%205.0-green)
 -
 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=ArtemPolshchakl&hide=stars,prs,issues,contribs)
--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemPolshchak)](https://github.com/ArtemPolshchak/github-readme-stats)
 -
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemPolshchak&layout=compact)](https://github.com/ArtemPolshchak/github-readme-stats)
