@@ -5,8 +5,7 @@ About me:
 - My Jave expirience is 2 years :white_check_mark:
 
 <b> Core technologies:</b>
-
-|[Spring](https://shields.io/badge/Spring-%3E%3D%205.0-green)
+![Spring](https://shields.io/badge/Spring-%3E%3D%205.0-green)
 
 
 -
