@@ -1,7 +1,9 @@
 ## Hi there 👋 My name is Artem :v:
 About me:
 - 🔭 I’m Java Developer
-- I learned Java on [Job4j](https://job4j.ru/)
+- I learned Java at [Job4j](https://job4j.ru/)
+- My Jave expirience is 2 years :white_check_mark:
+ "-"
 
 <!--
 **ArtemPolshchak/ArtemPolshchak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
