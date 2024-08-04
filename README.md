@@ -2,6 +2,7 @@
 About me:
 - 🔭 I’m Java Developer
 - I learned Java at [Job4j](https://job4j.ru/)
+- [Ш++](https://programming.org.ua/ua)
 - My Jave expirience is 2 years :white_check_mark:
 
 <b> Core technologies:</b>
