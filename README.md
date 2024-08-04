@@ -1,10 +1,7 @@
 ## Hi there 👋 My name is Artem :v:
 About me:
 - 🔭 I’m Java Developer
-- I learned Java at:
-- [Ш++](https://programming.org.ua/ua)
-- [Job4j](https://job4j.ru/)
-- 
+- I learned Java at: [Ш++](https://programming.org.ua/ua) and [Job4j](https://job4j.ru/)
 - My Jave expirience is 2 years :white_check_mark:
 
 <b> Core technologies:</b>
