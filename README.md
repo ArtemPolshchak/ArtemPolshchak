@@ -2,7 +2,7 @@
 About me:
 - 🔭 I’m ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) Developer
   - 
-- My Jave expirience in commercial development is 2 years :white_check_mark:
+- My expirience in commercial development is 2 years :white_check_mark:
   - 
 - I learned Java at: [Ш++](https://programming.org.ua/ua) and [Job4j](https://job4j.ru/)
   -
