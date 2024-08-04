@@ -1,12 +1,12 @@
 ## Hi there 👋 My name is Artem :v:
 About me:
 - 🔭 I’m Java Developer
+- My Jave expirience in commercial developmentis 2 years :white_check_mark:
 - I learned Java at: [Ш++](https://programming.org.ua/ua) and [Job4j](https://job4j.ru/)
-- My Jave expirience is 2 years :white_check_mark:
 
 <b> Core technologies:</b>
 
-| ![Java](https://shields.io/badge/Java-%3E%3D%208.0-orange) ![Spring](https://shields.io/badge/Spring-%3E%3D%204.0-green) ![Hibernate](https://shields.io/badge/Hibernate-%3E%3D%205.0-yellow) ![Maven](https://shields.io/badge/Maven-%3E%3D%207.0-red) ![PostgreSQL](https://shields.io/badge/PostgreSQL-%3E%3D%207.0-blue)
+| ![Java](https://shields.io/badge/Java-%3E%3D%208.0-orange) ![Spring](https://shields.io/badge/Spring-%3E%3D%207.0-green) ![Hibernate](https://shields.io/badge/Hibernate-%3E%3D%206.0-yellow) ![Maven](https://shields.io/badge/Maven-%3E%3D%207.0-red) ![PostgreSQL](https://shields.io/badge/PostgreSQL-%3E%3D%207.0-blue) ![AWS](https://shields.io/badge/AWS-%3E%3D%207.0-black) ![RESTful](https://shields.io/badge/RESTful-%3E%3D%208.0-gray) ![Git](https://shields.io/badge/Git-%3E%3D%208.0-purple)
 -
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtemPolshchak)](https://github.com/ArtemPolshchak/github-readme-stats)
