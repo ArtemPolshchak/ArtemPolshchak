@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Artem :v:
 About me:
-- 🔭 I’m Java Developer ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+- 🔭 I’m ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) Developer
   - 
 - My Jave expirience in commercial development is 2 years :white_check_mark:
   - 
